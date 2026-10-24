@@ -1,0 +1,9 @@
+Musicas deste resource pack
+
+- The Conjuring Mirror (album The Silence Before the Haunting)
+  Music by SINIUS
+  Licenca: Creative Commons Attribution 4.0 International (CC BY 4.0)
+  https://creativecommons.org/licenses/by/4.0/
+  https://freemusicarchive.org/music/sinius/the-silence-before-the-haunting
+
+O arquivo de audio foi convertido de mp3 para ogg (Vorbis) para uso no Minecraft.
