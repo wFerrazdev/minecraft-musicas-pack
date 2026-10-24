@@ -11,3 +11,8 @@ O arquivo `musicas-vanilla.zip` esta na aba **Releases**.
   https://freemusicarchive.org/music/sinius/the-silence-before-the-haunting
 
 O audio foi convertido de mp3 para ogg (Vorbis) para uso no Minecraft.
+
+- **King's Feast (Loop)**, por RandomMind
+  Licenca: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (dominio publico; credito apreciado, nao obrigatorio)
+  https://opengameart.org/content/medieval-kings-feast
+  O loop foi repetido 4 vezes e convertido de wav para ogg (Vorbis).
