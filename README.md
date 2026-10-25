@@ -1,24 +1,29 @@
 # Musicas do servidor (resource pack)
 
-Resource pack usado no servidor Minecraft Java 26.3 "VANILLA COM OS CARAS".
-O arquivo `musicas-vanilla.zip` esta na aba **Releases**.
+Resource pack usado no servidor Minecraft Java 26.3 "VANILLA COM OS CARAS". O arquivo `musicas-vanilla.zip` esta na aba **Releases**.
 
 ## Musicas
 
-- **The Conjuring Mirror** (album *The Silence Before the Haunting*)
+- Abandoned Souls, Cemetery Mist, Dust in the Wind e Haunted Doll (album Dark Territory - Original Motion Picture Soundtrack, 2023)
   Music by SINIUS
-  Licenca: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-  https://freemusicarchive.org/music/sinius/the-silence-before-the-haunting
-
-O audio foi convertido de mp3 para ogg (Vorbis) para uso no Minecraft.
-
-- **King's Feast (Loop)**, por RandomMind
-  Licenca: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (dominio publico; credito apreciado, nao obrigatorio)
-  https://opengameart.org/content/medieval-kings-feast
-  O loop foi repetido 4 vezes e convertido de wav para ogg (Vorbis).
-
-- **Abandoned Souls, Cemetery Mist, Dust in the Wind e Haunted Doll** (album *Dark Territory - Original Motion Picture Soundtrack*, 2023)
-  Music by SINIUS
-  Licenca: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  Licenca: Creative Commons Attribution 4.0 International (CC BY 4.0)
+  https://creativecommons.org/licenses/by/4.0/
   https://freemusicarchive.org/music/sinius/dark-territory-original-motion-picture-soundtrack
-  Alteracoes: cortadas ou repetidas ate 178 s, com fade-out, volume equalizado, mono e convertidas para ogg (Vorbis).
+  Alteracoes: cortadas ou repetidas ate 178 s, com fade-out, volume equalizado, mono, convertidas para ogg (Vorbis).
+
+- "Arcana" Preview
+  Music by Tad, Hitctrl
+  Licenca: Creative Commons Attribution 4.0 International (CC BY 4.0)
+  https://creativecommons.org/licenses/by/4.0/
+  https://opengameart.org/content/arcana-by-tadctrl-preview
+  Alteracoes: cortada nos primeiros 240 s, com fade-out, volume equalizado, mono, convertida de mp3 para ogg (Vorbis).
+
+- King's Feast (Loop), por RandomMind
+  Licenca: CC0 1.0 (dominio publico), credito apreciado mas nao obrigatorio
+  https://opengameart.org/content/medieval-kings-feast
+  O loop foi repetido ate 240 s, com fade-out, volume equalizado, mono, convertido de wav para ogg (Vorbis).
+
+- Minstrel Dance (Loop), por RandomMind
+  Licenca: CC0 1.0 (dominio publico), credito apreciado mas nao obrigatorio
+  https://opengameart.org/content/medieval-minstrel-dance
+  O loop foi repetido ate 240 s, com fade-out, volume equalizado, mono, convertido de wav para ogg (Vorbis).
